@@ -1,0 +1,22 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikRajaK/mochatest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikRajaK/mochatest/issues"
+  },
+  "homepage": "https://github.com/KarthikRajaK/mochatest#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
