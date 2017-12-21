@@ -1,7 +1,7 @@
 {
   "name": "mochatest",
   "version": "1.0.0",
-  "description": "",
+  "description": "My First Code Coverage",
   "main": "index.js",
   "scripts": {
     "test": "mocha ./test/**/*.spec.js"
@@ -10,14 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/KarthikRajaK/mochatest.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "KarthikRajaK",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KarthikRajaK/mochatest/issues"
   },
   "homepage": "https://github.com/KarthikRajaK/mochatest#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "chai": "^4.1.2",
+    "codecov": "^3.0.0",
+    "istanbul": "^0.4.5",
     "mocha": "^4.0.1"
   }
 }
